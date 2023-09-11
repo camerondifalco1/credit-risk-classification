@@ -6,8 +6,11 @@ The objective of this analysis is to develop a machine learning model that evalu
 
 Metrics
 Accuracy: The model is 100% accurate in identifying healthy loans.
+
 Precision: The precision score for high-risk loans stands at 87%.
+
 Recall: Not provided in the initial analysis, but a crucial metric for understanding the model's performance in capturing high-risk loans.
+
 Summary and Recommendation
 Upon initial evaluation, the model performs exceptionally well in predicting healthy loans but has room for improvement in identifying high-risk loans. In an ideal situation, the performance would be inversed, with greater precision for high-risk loans being more valuable to the bank.
 
